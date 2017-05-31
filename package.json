@@ -1,0 +1,24 @@
+{
+  "name": "full-stack-run-through",
+  "version": "1.0.0",
+  "description": "full-stack-run-through",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BluePawDev/full-stack-run-through.git"
+  },
+  "author": "jaruby@me.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BluePawDev/full-stack-run-through/issues"
+  },
+  "homepage": "https://github.com/BluePawDev/full-stack-run-through#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3"
+  }
+}
