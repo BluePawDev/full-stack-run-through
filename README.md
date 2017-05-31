@@ -26,3 +26,7 @@ End ver 0.1 complete, checkout a new branch and push it to github
 - `git checkout -b 'ver0.1'`
 
 - `git push origin ver0.1`
+
+## ver 0.2
+
+test get and post to server

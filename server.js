@@ -24,3 +24,15 @@ app.get('/', function(req, res) {
 	console.log('in base URL');
 	res.sendFile(path.resolve('views/index.html'));
 });
+
+// get route
+app.get('/images', function(req, res) {
+	console.log('get hit to /images');
+	res.send('quack');
+});
+
+// post route
+app.get('/images', function(req, res) {
+	console.log('post hit to /images:', req.body);
+	res.send('ribbit');
+});
