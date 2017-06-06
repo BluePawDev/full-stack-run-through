@@ -19,6 +19,7 @@
   "homepage": "https://github.com/BluePawDev/full-stack-run-through#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "pg": "^6.2.3"
   }
 }
